@@ -12,6 +12,5 @@
 <li>TypeScript</li>
 <li>API consumption</li>
 <li>CSS Grid</li>
-<li>Responsiveness</li>
 <li>Vite.js</li>
 </ul>
